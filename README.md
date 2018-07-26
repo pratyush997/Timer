@@ -1,7 +1,7 @@
 # Timer
 Just another time in JS.
 
-## Try it out [here](https://pratyush997.github.io/timer/).
+## Try it out [here](https://pratyush997.github.io/Timer/).
 
 # Features
 - umm, clean af.
