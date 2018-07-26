@@ -1,0 +1,26 @@
+body {
+    margin-top: 15%;
+    text-align: center;
+}
+
+div {
+    margin-top: 1%;
+    width: auto;
+}
+
+#timer {
+    font-family: Courier New, Courier, monospace;
+    font-size: 100px;
+}
+
+input {
+    border-color: black;
+    padding: 15px 30px;
+    border-radius: 5px;
+    box-shadow: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 15px;
+    background-color: white;
+    color: black;
+}
